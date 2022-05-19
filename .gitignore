@@ -12,7 +12,7 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
-
+#This wont push to Github
 venv/**
 # AWS User-specific
 .idea/**/aws.xml
